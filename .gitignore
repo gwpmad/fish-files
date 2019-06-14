@@ -1,0 +1,6 @@
+/*
+!functions/
+!config.fish
+functions/fish_prompt.fish
+functions/fundle.fish
+!.gitignore
